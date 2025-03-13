@@ -114,6 +114,10 @@ The application uses the following database schema:
 - `role_id`: INTEGER NOT NULL (Foreign Key to Role)
 - `manager_id`: INTEGER (Self-referencing Foreign Key to Employee)
 
+## Demo
+
+https://www.youtube.com/watch?v=1X-R1X-oYns
+
 ## Technologies Used
 
 - **Node.js** - JavaScript runtime environment
